@@ -1,0 +1,1 @@
+print("o dia dos namorados é uma tática do governo para lucrar mais encima de casais")
